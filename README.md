@@ -6,7 +6,7 @@
 
 ---
 
-[Download my CV](https://storage.googleapis.com/resume-portfolio-app.appspot.com/Vishwanath.pdf)
+[Download my CV]()
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" />
 
