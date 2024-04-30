@@ -6,7 +6,7 @@
 
 ---
 
-[Download my CV](https://drive.google.com/file/d/1VQfDSfyAtV-cdFA1n5vKaaCEvkDcyZyF/view?usp=drivesdk)
+[Download my CV](https://drive.google.com/file/d/1UPiiMeIKxB7JrB96zAc45MvBQP59FKad/view?usp=sharing)
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" />
 
